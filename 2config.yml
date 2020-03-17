@@ -1,0 +1,14 @@
+Client:
+  token: "hhqiEQIXL7hcg6Rj"
+  type: "sandbot"
+Discord:
+  token: "NjgyMjI0NjM4MTM4Mzg0NDQw.Xlodgg.XHTbSUXW-ytCVkgTCsrcdMGVA4w"
+  embedColor: "FF0000"
+  prefix: "-"
+Minecraft:
+  username: "8v4plays@gmail.com"
+  password: "Sherman6"
+  serverIP: "pvp.thearchon.net"
+  port: 25565
+  version: "1.8"
+  hubCmd: "/cannon"
