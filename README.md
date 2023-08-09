@@ -1,8 +1,8 @@
-### Old auth system i used to manage apps to sell or give access to
+# Old auth system i used to manage apps to sell or give access to
 
 ## how it works ?
 
-# it uses discord.js and some other Node.js modules to run, its ran on express module. Interaction between client and server is thru requests.
+### it uses discord.js and some other Node.js modules to run, its ran on express module. Interaction between client and server is thru requests.
 
 - basically thru javascript client - server connection. 
 - Its basic level of encryption
